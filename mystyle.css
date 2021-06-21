@@ -1,0 +1,17 @@
+img {
+    opacity: 1.0;
+}
+img:hover {
+    opacity: 0.4;
+}
+.line3 {
+     font-family: "Copperplate",fantasy;
+}
+.line2 {
+     font-family: "Arial", sans-serif;
+}
+.line1 {
+     font-family: "Arial", sans-serif;
+	 background: rgba(0, 0, 255, 0.5);
+	 color:white;
+}
